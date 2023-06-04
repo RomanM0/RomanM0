@@ -1,17 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+<img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20my%20GitHub!%20&height=100&section=header'>
 
+- 👋 My name is Roman.
+- 👨‍💻 I'm studying a web development from 2021 at Academy of Programming at Lviv Region
+<hr>
+<img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&text=↓%20My%20contacts%20↓&height=100'>
 
-<!--
-**RomanM0/RomanM0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<a href="https://t.me/Romko_228" target="_blank">
+     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://facebook.com/romko_228" target="_blank">
+       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="40" height="40" />
+       </a>
+  <br>
+  <a href='mailto:milyanroman833@gmail.com'>
+ <img src="https://img.shields.io/badge/-milyanroman833@gmail.com-red?style=flat&logo=Gmail&logoColor=white"
+      </a>
+    </div>
+  
+## At that moment that's all 😉
