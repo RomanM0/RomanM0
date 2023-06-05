@@ -13,9 +13,12 @@
        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="40" height="40" />
        </a>
   <br>
-  <a href='mailto:milyanroman833@gmail.com'>
- <img src="https://img.shields.io/badge/-milyanroman833@gmail.com-red?style=flat&logo=Gmail&logoColor=white"
+  <a href='mailto:milyanroman833@gmail.com' target="_blank">
+ <img src="https://img.shields.io/badge/-milyanroman833@gmail.com-red?style=flat&logo=Gmail&logoColor=white" />
+      </a>
+       <a href='weixin://dl/chat?wete_73435p' target="_blank">
+ <img src="https://img.shields.io/badge/-wete_73435p-green?style=flat&logo=WeChat&logoColor=white" />
       </a>
     </div>
-  
-## At that moment that's all 😉
+  <hr>
+     <h1 align='center'> At that moment that's all 😉 </h1>
