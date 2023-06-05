@@ -2,6 +2,9 @@
 
 - 👋 My name is Roman. I'm 15 years old.
 - 👨‍💻 I'm studying a web development from 2021 at Academy of Programming at Lviv Region
+<div align='center'>
+<img src='https://komarev.com/ghpvc/?username=RomanM0&label=Profile%20viewing%20times&color=0e75b6&style=flat' />
+</div>
 <hr>
 <img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&text=👤%20↓%20My%20contacts%20↓&height=100'>
 
