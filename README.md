@@ -1,6 +1,6 @@
 <img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20my%20GitHub!%20&height=100&section=header'>
 
-- 👋 My name is Roman. I'm 15 years old.
+- 👋 My name is Roman. I'm 16 years old.
 - 👨‍💻 I'm studying a web development from 2021 at Academy of Programming at Lviv Region
 <div align='center'>
 <img src='https://komarev.com/ghpvc/?username=RomanM0&label=Profile%20viewing%20times&color=0e75b6&style=flat' />
