@@ -12,7 +12,7 @@
 <a href="https://t.me/Romko_228" target="_blank">
      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://facebook.com/romko_228" target="_blank">
+    <a href="https://facebook.com/romko.228" target="_blank">
        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="40" height="40" />
        </a>
   <br>
