@@ -2,7 +2,7 @@ name: Update Age
 
 on:
   schedule:
-    - cron: '0 0 */14 * *'  # runs on day-of-month 1, 15, 29 at 00:00 UTC
+    - cron: '0 0 16 9 *'  # runs every September 16 at 00:00 UTC
   workflow_dispatch:      # lets you trigger it manually too
 
 jobs:
