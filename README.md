@@ -1,7 +1,8 @@
 <img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20my%20GitHub!%20&height=100&section=header'>
 
 - 👋 My name is Roman. I am <!--AGE-->18<!--/AGE--> years old.
-- 👨‍💻 I'm studying a web development from 2021 at Academy of Programming at Lviv Region
+- 👨‍💻 I'm studying as Software Engineer in Ukrainian National Forestry University.
+- 📅 From 2021 to 2025 I studied a Web Development in Creator IT Academy.
 <div align='center'>
 <img src='https://komarev.com/ghpvc/?username=RomanM0&label=Profile%20viewing%20times&color=0e75b6&style=flat' />
 </div>
