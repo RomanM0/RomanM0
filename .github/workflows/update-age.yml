@@ -1,0 +1,30 @@
+name: Update Age
+
+on:
+  schedule:
+    - cron: '0 0 */14 * *'  # runs on day-of-month 1, 15, 29 at 00:00 UTC
+  workflow_dispatch:      # lets you trigger it manually too
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Update age in README
+        run: python update_age.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update age in README"
+          git push
